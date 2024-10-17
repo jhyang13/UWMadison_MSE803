@@ -1,8 +1,7 @@
 # MS&E803: Special Topics in Materials Science (002) FA23
 
-Name: Jiahui Yang, Mechanical Engineering
-
-Email: jyang753@wisc.edu
+- Name: Jiahui Yang, Mechanical Engineering
+- Email: jyang753@wisc.edu
 
 Let me know if you can have access to my homework or not. ╰(●’◡’●)╮
 
