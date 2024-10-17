@@ -1,5 +1,4 @@
-# repo_MSE803
-MSE 803
+# MS&E803: Special Topics in Materials Science (002) FA23
 
 Name: Jiahui Yang, Mechanical Engineering
 
