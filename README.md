@@ -1,5 +1,7 @@
 # MS&E803: Special Topics in Materials Science (002) FA23
 
+## MSE803: Data Science in Materials
+
 ### Student
 - Name: Jiahui Yang, Mechanical Engineering
 - Email: jyang753@wisc.edu
