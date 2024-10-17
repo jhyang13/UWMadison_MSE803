@@ -6,6 +6,9 @@ Email: jyang753@wisc.edu
 
 Let me know if you can have access to my homework or not. ╰(●’◡’●)╮
 
+### Course Description
+This course covers data science applications in materials science, focusing on databases, machine learning for property prediction, image and spectra analysis, and replacing physical models. Python-based and hands-on, it includes labs and a final project. Designed for graduate and advanced undergraduate students, with exceptions possible upon request. Prior programming and machine learning experience is recommended.
+
 ### Lab 1: Band Gaps
 - intromllab_3.ipynb
 
